@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biodata Sederhana</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Biodata Sederhana</h1>
-        <p><strong>Nama:</strong> Nama Anda</p>
-        <p><strong>Umur:</strong> Umur Anda</p>
-        <p><strong>Alamat:</strong> Alamat Anda</p>
-        <p><strong>Hobi:</strong> Hobi Anda</p>
-    </div>
-</body>
-</html>
+Halo saya dea nabila
